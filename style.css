@@ -16,7 +16,7 @@
 }
 
 .noline{
-    text-underline-offset: 0px;
+    text-decoration: none;
     color: white;
 }
 
