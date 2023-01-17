@@ -1,0 +1,27 @@
+.header{
+    background-color: #008067;
+}
+
+.whitefont{
+    color: white;
+}
+
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.underline{
+    color: white;
+    text-underline-offset: 10px;
+}
+
+.noline{
+    text-underline-offset: 0px;
+    color: white;
+}
+
+.search{
+    border: 1px solid black;
+    border-radius: 5px;
+    height: 20px;
+}
