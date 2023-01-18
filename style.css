@@ -25,3 +25,20 @@
     border-radius: 5px;
     height: 50px;
 }
+
+.status{
+    background-color: #6e257f;
+    color: white;
+}
+
+.statustype{
+    border: #6e257f;
+    background-color: #6e257f;
+    text-align: center;
+    color: white;
+    font-size: xx-large;
+}
+
+.rowspace{
+    row-gap: 0px;
+}
