@@ -2,6 +2,23 @@
     background-color: #008067;
 }
 
+header{
+    position: sticky;
+    z-index: 20;
+    top: 0;
+    width: 100%;
+    background-color: #008067;
+}
+
+.searchhead{
+    position: sticky;
+    z-index: 20;
+    top: 0;
+    width: 100%;
+    background-color: white;
+}
+
+
 .whitefont{
     color: white;
 }
@@ -41,4 +58,24 @@
 
 .rowspace{
     row-gap: 0px;
+}
+
+.more{
+    position: fixed;
+    right: 1em;
+    bottom: 1em;
+    z-index: 20;
+}
+
+.addst{
+    position: fixed;
+    right: 1.3em;
+    bottom: 5em;
+    z-index: 20;
+}
+
+.backupload a img{
+    position: fixed;
+    top: 1em;
+    left: 1em;
 }
